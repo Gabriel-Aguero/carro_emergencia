@@ -1,0 +1,49 @@
+[
+
+    {
+        "title": "Gestión de Inventario",
+        "description": "Control detallado de medicacmentos y materiales descartables.",
+        "icon": "Truck",
+        "items": [
+            {
+            "icon": "CircleCheckBig",
+            "text": "Registro completo de medicamentos con fechas de vencimiento."
+            },
+            {
+            "icon": "CircleCheckBig",
+            "text": "Control de materiales descartables y su disponibilidad."
+            }
+        ]        
+    },
+    {
+        "title": "Gestión de Inventario",
+        "description": "Control detallado de medicacmentos y materiales descartables.",
+        "icon": "Truck",
+        "items": [
+            {
+            "icon": "CircleCheckBig",
+            "text": "Registro completo de medicamentos con fechas de vencimiento."
+            },
+            {
+            "icon": "CircleCheckBig",
+            "text": "Control de materiales descartables y su disponibilidad."
+            }
+        ]        
+    },
+    {
+        "title": "Gestión de Inventario",
+        "description": "Control detallado de medicacmentos y materiales descartables.",
+        "icon": "Truck",
+        "items": [
+            {
+            "icon": "CircleCheckBig",
+            "text": "Registro completo de medicamentos con fechas de vencimiento."
+            },
+            {
+            "icon": "CircleCheckBig",
+            "text": "Control de materiales descartables y su disponibilidad."
+            }
+        ]        
+    }
+      
+  ]
